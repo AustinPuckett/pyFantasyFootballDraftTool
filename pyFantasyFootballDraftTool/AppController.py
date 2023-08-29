@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, font
 import sqlite3 as sql
 
-from PostDraftAnalysis import generate_draft_report
+#from PostDraftAnalysis import generate_draft_report
 from View import *
 from Model2 import *
 from Presenter2 import *
