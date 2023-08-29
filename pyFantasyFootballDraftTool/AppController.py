@@ -11,7 +11,7 @@ from Presenter2 import *
 
 class AppController(tk.Tk):
     '''
-    TODO: Menu bar will appear on the Login menu when it should not.
+    TODO: May need to allow for multiple models for a single view-presenter.
     '''
     def __init__(self):
         super().__init__()
