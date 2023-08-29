@@ -7,22 +7,24 @@ This app imports NFL player's seasonal fantasy points projections (FPTS) and ave
 
 ### Example: 
 *Current Pick Number = 6 (first round pick)*
+
 *Next Pick Number = 19 (second round pick)*
 
 #### Available Players:
 Name - Position - FPTS
-+*Tyreek Hill - WR - 248*
-+*Saquon Barkley RB - 236*
-+*CeeDee Lamb - WR - 222*
+
++ *Tyreek Hill - WR - 248*
++ *Saquon Barkley RB - 236*
++ *CeeDee Lamb - WR - 222*
 
 #### Best Players Available at the 19th pick (i.e., ADP >= 19):
-+*Garrett Wilson - WR - 200*
-+*Najee Harris - RB - 203*
++ *Garrett Wilson - WR - 200*
++ *Najee Harris - RB - 203*
 
 #### Available Player's NBA calculations:
-+*Tyreek Hill - WR: NBA = (248 - 200) = 48*
-+*Saquon Barkley - RB: NBA = (236 - 203) = 33*
-+*CeeDee Lamb - WR: NBA = (222 - 200) = 22*
++ *Tyreek Hill - WR: NBA = (248 - 200) = 48*
++ *Saquon Barkley - RB: NBA = (236 - 203) = 33*
++ *CeeDee Lamb - WR: NBA = (222 - 200) = 22*
 
 
 Since Tyreek Hill has the highest NBA, he is the best selection with the current draft pick.
