@@ -29,7 +29,7 @@ Name - Position - FPTS
 
 Since Tyreek Hill has the highest NBA, he is the best selection with the current draft pick.
 
-[^1]: It's hypothesized that this algorithm works best for picks 3 through 10, since picks 1, 2, 11, and 12 occur at what's called "the turn", where draft picks for a fantasy team occur subsequently. The NBA metric likely fails for these picks at the turn.
+[^1]: It's hypothesized that this algorithm works best for picks 3 through 10, since picks 1, 2, 11, and 12 occur at what's called "the turn", where draft picks for a fantasy team occur subsequently. The NBA metric likely fails for the first of two subsequent picks at the turn.
 
 
 ## How to Use this Tool
