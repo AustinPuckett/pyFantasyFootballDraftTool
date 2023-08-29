@@ -3,7 +3,7 @@ A GUI application for fantasy football drafting and analysis.
 
 ## The PONBA Metric[^1]
 
-This app imports NFL player's seasonal fantasy points projections (FPTS) and average draft positions (ADPs) to calculate the "points over next best available player" (PONBA or NBA). PONBA (NBA) for a draft pick is calculated by subtracting the FPTS of the user's next pick's best available player from the FPTS of the selected player. See below:
+This app imports NFL player's seasonal fantasy points projections (FPTS) and average draft positions (ADPs) to calculate the "points over next best available player" (PONBA or NBA). PONBA for a draft pick is calculated by subtracting the FPTS of the user's next pick's best available player from the FPTS of the selected player. See below:
 
 ### Example: 
 *Current Pick Number = 6 (first round pick)*
