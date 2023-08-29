@@ -48,7 +48,7 @@ To view drafted players, click the draft board button.
 
 ### Current bugs: 
 
-- [ ] Users have the ability to submit a blank pick when the only a single click is used on the player list: make sure to double click the player in the list (their info should populate in the "Draft Player" section of the UI.
+- [ ] Users have the ability to submit a blank pick when the only a single click is used on the player list: make sure to double click the player in the list (their info should populate in the "Draft Player" section of the UI).
 
 ### Future improvements:
 
