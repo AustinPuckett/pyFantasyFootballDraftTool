@@ -34,9 +34,17 @@ Since Tyreek Hill has the highest NBA, he is the best selection with the current
 
 ## How to Use this Tool
 
-To use this tool for 2023, run the main.py file. On the start-up screen, click the import adp button and select "FantasyPros_2023_Overall_ADP_Rankings.csv". Then click the import projections button and select "FantasyPros_Fantasy_Football_Projections_ALL.csv". Then click the import draft order button and select "Sample Draft Order.csv". Then click the begin draft button.
+To use this tool for 2023, run the main.py file. 
 
-To select a player to draft, double click on the player in the player list, then press the submit pick button. To view drafted players, click the draft board button.
+On the start-up screen:
++ Click the import adp button and select "FantasyPros_2023_Overall_ADP_Rankings.csv"
++ Click the import projections button and select "FantasyPros_Fantasy_Football_Projections_ALL.csv"
++ Click the import draft order button and select "Sample Draft Order.csv"
++ Click the begin draft button
+
+To select a player to draft, double click on the player in the player list, then press the submit pick button. 
+
+To view drafted players, click the draft board button.
 
 ### Current bugs: 
 
