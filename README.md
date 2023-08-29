@@ -29,6 +29,8 @@ Name - Position - FPTS
 
 Since Tyreek Hill has the highest NBA, he is the best selection with the current draft pick.
 
+For a full draft strategy, you would also need to consider whether or not you can start the selected player in your current drafted roster. For instance, if your roster already has its receiver and flex spots filled, you would want to draft a different position.
+
 [^1]: It's hypothesized that this algorithm works best for picks 3 through 10, since picks 1, 2, 11, and 12 occur at what's called "the turn", where draft picks for a fantasy team occur subsequently. The NBA metric likely fails for the first of two subsequent picks at the turn.
 
 
